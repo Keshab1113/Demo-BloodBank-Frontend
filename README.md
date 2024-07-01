@@ -1,3 +1,9 @@
+![Screenshot (332)](https://github.com/Keshab1113/Demo-BloodBank-Frontend/assets/110785343/b804ee90-0087-4461-a6b0-86f47173de8e)
+![Screenshot (334)](https://github.com/Keshab1113/Demo-BloodBank-Frontend/assets/110785343/0f70f261-245f-4622-a934-1753aaebddf1)
+![Screenshot (333)](https://github.com/Keshab1113/Demo-BloodBank-Frontend/assets/110785343/188b839b-f79c-417d-a840-bafb577cde00)
+
+This website is not completed yet.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
